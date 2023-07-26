@@ -1,0 +1,3 @@
+{
+	"subtitle":"An active cantilever probe with piezoresistive sensing and electrothermal actuation is used to image the sample. The probe is wire-bonded to a PCB with microSD card shape for easy manipulation. No alignment of optical components is needed with this active probe, which allows plug-and-plan imaging experiments. Due to thermal heating, the active probe requires drive signal at half of the resonance frequency. A DC voltage can be applied to control the static deflection of the cantilever."
+}
