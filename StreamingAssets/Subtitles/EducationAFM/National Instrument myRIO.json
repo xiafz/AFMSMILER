@@ -1,3 +1,0 @@
-{
-	"subtitle":"The NI myRIO microcontroller is used as the main controller to implement the AFM imaging logic in the LabVIEW graphical programming environment. The user interface code running in the real time system works with the low-level controllers implemented on the Field Programmable Gate Array to control the various components for AFM imaging."
-}

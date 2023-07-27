@@ -1,3 +1,0 @@
-{
-	"subtitle":"Conductive AFM setup is in principle similar to scanning voltage microscopy. Instead of measuring the voltage, the current going through the conductive cantilever probe is measured at each pixel using a transimpedance amplifier as shown in the animation. Compared scanning tunneling microscopy, the current sensing channel and the probe sample distance detection mechanism are decoupled, which makes conductive AFM more advantageous. Building upon the conductive AFM setup, a laser tracking the probe tip can be added to measure the photoconductivity of photovoltaic devices such as a solar cell."
-}

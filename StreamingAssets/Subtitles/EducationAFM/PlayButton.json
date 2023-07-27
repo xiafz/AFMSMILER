@@ -1,3 +1,0 @@
-{
-	"subtitle":"The educational Atomic Force Microscope design has nine primary subsystems including a piezo buzzer-actuated scanner, an active cantilever probe, a Wheatstone bridge amplifier, a signal generator and demodulator circuit, a National Instrument myRIO, a stepper motor driver, a coarse positioner engagement system, a buzzer scanner driver circuit, and an optical microscope. The experiment setup process of the educational AFM is in principle similar to that of the Bruker AFM with even simpler requirement on the operator since there is no need for probe-laser alignment. Please refer to the Bruker Multimode 8 AFM experiment setup process for more details."
-}

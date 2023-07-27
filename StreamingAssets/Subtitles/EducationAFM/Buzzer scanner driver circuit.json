@@ -1,3 +1,0 @@
-{
-	"subtitle":"The buzzer scanner driver circuit is an analog circuit that interfaces the low voltage output from the myRIO microcontroller to the buzzer-actuated scanner up to plus and minus forty-five voltages. A combination of scaling, addition and subtraction amplifiers are combined to realize the desired output signal using high-voltage tolerate operational amplifiers."
-}
