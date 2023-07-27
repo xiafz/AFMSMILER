@@ -101,6 +101,24 @@
           alert(message);
         });
       };
+
+      //added start
+      var global_unity_instance; 
+      var global_unity_progress = 0;
+      var global_index;
+      const queryString = window.location.search;
+      const urlParams = new URLSearchParams(queryString);
+            if (urlParams.has('index')){
+              global_index = urlParams.get('index');
+              setTimeout(() => {page_jump()}, 100);
+            }
+        function page_jump() {
+              if(global_unity_progress==1){
+                global_unity_instance.SendMessage("ReceiveFromWeb", "ReceiveFunctionForWeb", global_index);
+              }
+              setTimeout(() => {page_jump()}, 100);
+        }
+
       document.body.appendChild(script);
     </script>
   </body>
