@@ -92,8 +92,10 @@
       script.onload = () => {
         createUnityInstance(canvas, config, (progress) => {
           progressBarFull.style.width = 100 * progress + "%";
+          global_unity_progress=progress; //added
         }).then((unityInstance) => {
           loadingBar.style.display = "none";
+          global_unity_instance = unityInstance; //added
           fullscreenButton.onclick = () => {
             unityInstance.SetFullscreen(1);
           };
@@ -102,7 +104,7 @@
         });
       };
 
-      //added start
+       //added start
       var global_unity_instance; 
       var global_unity_progress = 0;
       var global_index;
@@ -118,6 +120,7 @@
               }
               setTimeout(() => {page_jump()}, 100);
         }
+      //added end  
 
       document.body.appendChild(script);
     </script>
