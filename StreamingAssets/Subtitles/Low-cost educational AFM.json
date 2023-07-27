@@ -1,0 +1,3 @@
+{
+	"subtitle":"The educational AFM 3D model provides a component level overview of the low-cost AFM described in the book. The design is modular, low-cost, easy to operate and suitable for a variety of experiments. The AFM can be used as a platform for precision instrumentation education. The educational Atomic Force Microscope design has nine primary subsystems including a piezo buzzer-actuated scanner, a buzzer scanner driver circuit, an active cantilever probe, a Wheatstone bridge amplifier, a signal generation and demodulation circuit, a National Instrument myRIO, a coarse positioner engagement system, a stepper motor driver, and an optical microscope."
+}

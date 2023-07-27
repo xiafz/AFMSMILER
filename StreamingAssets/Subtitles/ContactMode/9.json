@@ -1,0 +1,3 @@
+{
+	"subtitle":"Lateral Force AFM is a version of Contact AFM that measure both topography and surface friction force. During imaging, the in-plane scanning is performed with relative motion between the probe tip and the sample perpendicular to the longest axis of the cantilever. As shown in the animation, the tip-sample friction force can produce a torque that twists the cantilever probe. As the cantilever tip meets new surfaces with different properties (varying levels of friction or different materials entirely), the cantilever tip will twist and adjust according to the new coefficient of friction. As with all Contact AFM modes, imaging of soft fragile samples can be difficult due to the friction force."
+}

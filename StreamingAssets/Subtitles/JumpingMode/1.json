@@ -1,0 +1,3 @@
+{
+	"subtitle":"Peak Force Tapping Mode is an optimized jumping mode technique. As shown in the animation, instead of creating the force versus distance curve like force-volume mode slowly, a sinusoidal waveform with frequency much below the cantilever first resonance is used to drive the scanner and the peak deflection of the cantilever is regulated. A feedback loop can keep the peak tip-sample interaction force down to 10 pico-Newtons. This mode allows much faster imaging compared to the force volume mode."
+}

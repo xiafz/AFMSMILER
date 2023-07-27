@@ -1,0 +1,3 @@
+{
+	"subtitle":"The signal processing circuit provides the reference signal for driving the cantilever deflection excitation in tapping mode. I addition, the oscillation amplitude of the cantilever deflection signal can be demodulated. This model demonstrates a custom printed circuit board implementation as described in the book. In practice, the circuit can be replaced with other instruments such as function generator and lock-in amplifier."
+}

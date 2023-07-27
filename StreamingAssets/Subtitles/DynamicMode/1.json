@@ -1,0 +1,3 @@
+{
+	"subtitle":"Phase Modulation AFM is in principle similar to Amplitude Modulation AFM for dynamic mode imaging. The main difference is that the phase instead of the amplitude is regulated during imaging. Similarly, when phase is regulated, the amplitude information can be used to create material property contrast maps. As shown in the illustration, the phase changes when encountering a change in topography and will then quickly go back to its setpoint as the controller responds to the topography variation."
+}

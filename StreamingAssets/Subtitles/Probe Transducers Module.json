@@ -1,0 +1,3 @@
+{
+	"subtitle":"The probe transducer module illustrates the operation principles of AFM cantilever probe. A total of six sensing principles and six actuation principles are summarized. For sensing, adjust the input force and observe the corresponding response of the transducer. For actuation, input the desired force or oscillation parameters and observe the response of the cantilever deflection. Notice that certain sensing and actuation principles only respond to AC signals but not static constant deflection."
+}

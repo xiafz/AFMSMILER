@@ -1,0 +1,3 @@
+{
+	"subtitle":"Optical beam deflection (OBD) is the most widely used technique that measures the free-end cantilever deflection angle, which is linearly proportional to the deflection. The optical level converts small angle change to large motion of the laser spot location on a quadrature photodiode. The photocurrent generated on each quadrant is processed by electronics to obtain the vertical and lateral movement of the laser, which corresponds to the cantilever deflection or twisting motion. The gain of the signal depends on the detector sensitivity, electronics gain and alignment of optical components."
+}
